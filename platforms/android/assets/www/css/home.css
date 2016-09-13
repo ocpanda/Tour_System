@@ -1,0 +1,14 @@
+.ui-grid-d{
+  position: relative;
+  top:-3vh;
+  left:-2%;
+}
+
+.ui-grid-d div{
+  padding-left:10px;
+}
+
+.ui-grid-d img{
+  width:10vh;
+  height:10vh;
+}
